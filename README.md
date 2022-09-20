@@ -17,7 +17,7 @@ The organization of the material is:
 > - **/src** - contains the source code for the Hem-AuthNet framework.
 > - **/workdir** - Many paths are hard-coded, so please execute all code from within this directory. 
 
-Moreover, please notice that some files were too big to be uploaded to the repository (eg, the Medline results with the ~20,000 abstracts), hence, you will need to search Pubmed and download it by yourself.
+Moreover, please notice that some files were too big to be uploaded to the repository, hence, you need to unzip them before using (eg., the Pubmed Medline database at the datasets directory), or generate them yourself, with the scripts provided.
 
 If you find any issues with the code, please contact us: tiago-jose@ncchd.go.jp, ricardoar@ufba.br, tatiane.nogueira@ufba.br
 
