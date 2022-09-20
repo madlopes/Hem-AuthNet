@@ -1,0 +1,11 @@
+auth1@auth2@papers
+Pontara E@Casonato A@14
+Casonato A@Bertomoro A@9
+Girolami A@Casonato A@17
+Pontara E@Bertomoro A@9
+Pontara E@Girolami A@9
+Girolami A@Bertomoro A@7
+Sartori MT@Girolami A@13
+Sartori MT@Casonato A@6
+Sartori MT@Pontara E@5
+Sartori MT@Bertomoro A@4

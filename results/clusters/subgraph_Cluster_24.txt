@@ -1,0 +1,4 @@
+auth1@auth2@papers
+Roberts HR@Hoffman M@17
+Monroe DM@Hoffman M@26
+Roberts HR@Monroe DM@27

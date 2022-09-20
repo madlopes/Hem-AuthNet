@@ -1,0 +1,100 @@
+auth1@auth2@papers
+Morfini M@Gringeri A@9
+Morfini M@Mannucci PM@14
+Mannucci PM@Gringeri A@32
+Santagostino E@Gringeri A@18
+Santagostino E@Mannucci PM@39
+Rocino A@Coppola A@14
+Santagostino E@Morfini M@27
+Mannucci PM@Castaman G@10
+Peyvandi F@Mannucci PM@28
+Santagostino E@Rocino A@13
+Rocino A@Morfini M@9
+Rocino A@Gringeri A@6
+Morfini M@Castaman G@14
+Santagostino E@Castaman G@14
+Morfini M@Mazzucconi MG@7
+Mazzucconi MG@Mannucci PM@8
+Tagliaferri A@Coppola A@19
+Rocino A@Castaman G@10
+Santoro C@Castaman G@9
+Zanon E@Castaman G@12
+Santoro C@Rocino A@10
+Zanon E@Rocino A@12
+Zanon E@Santoro C@11
+Di Minno G@Coppola A@13
+Rocino A@Di Minno G@9
+Mancuso ME@Di Minno G@4
+Tagliaferri A@Di Minno G@5
+Zanon E@Di Minno G@3
+Santoro C@Di Minno G@5
+Di Minno G@Castaman G@4
+Santagostino E@Di Minno G@7
+Mannucci PM@Di Minno G@4
+Mancuso ME@Coppola A@5
+Zanon E@Coppola A@12
+Santoro C@Coppola A@13
+Coppola A@Castaman G@9
+Santagostino E@Coppola A@10
+Mannucci PM@Coppola A@6
+Rocino A@Mancuso ME@8
+Tagliaferri A@Rocino A@9
+Rocino A@Mannucci PM@7
+Tagliaferri A@Mancuso ME@7
+Zanon E@Mancuso ME@5
+Santoro C@Mancuso ME@8
+Mancuso ME@Castaman G@10
+Santagostino E@Mancuso ME@40
+Mannucci PM@Mancuso ME@19
+Zanon E@Tagliaferri A@11
+Tagliaferri A@Santoro C@11
+Tagliaferri A@Castaman G@8
+Tagliaferri A@Santagostino E@14
+Tagliaferri A@Mannucci PM@9
+Zanon E@Santagostino E@7
+Zanon E@Mannucci PM@7
+Santoro C@Santagostino E@7
+Santoro C@Mannucci PM@3
+Santoro C@Mazzucconi MG@8
+Mazzucconi MG@Castaman G@7
+Mazzucconi MG@Mancuso ME@6
+Franchini M@Coppola A@19
+Santoro C@Franchini M@7
+Zanon E@Franchini M@6
+Tagliaferri A@Franchini M@18
+Peyvandi F@Castaman G@4
+Peyvandi F@Mancuso ME@11
+Santagostino E@Peyvandi F@14
+Franchini M@Castaman G@5
+Mancuso ME@Franchini M@4
+Rocino A@Franchini M@5
+Morfini M@Mancuso ME@5
+Santoro C@Morfini M@6
+Santoro C@Peyvandi F@2
+Mazzucconi MG@Coppola A@4
+Morfini M@Coppola A@7
+Peyvandi F@Coppola A@2
+Rocino A@Mazzucconi MG@5
+Rocino A@Peyvandi F@2
+Santagostino E@Franchini M@6
+Santagostino E@Mazzucconi MG@7
+Franchini M@Di Minno G@4
+Mazzucconi MG@Di Minno G@3
+Morfini M@Di Minno G@7
+Peyvandi F@Di Minno G@1
+Mazzucconi MG@Franchini M@2
+Morfini M@Franchini M@7
+Peyvandi F@Franchini M@1
+Peyvandi F@Mazzucconi MG@2
+Tagliaferri A@Mazzucconi MG@6
+Zanon E@Mazzucconi MG@6
+Peyvandi F@Morfini M@2
+Tagliaferri A@Morfini M@8
+Zanon E@Morfini M@6
+Tagliaferri A@Peyvandi F@2
+Zanon E@Peyvandi F@4
+Mannucci PM@Franchini M@21
+Mazzucconi MG@Gringeri A@2
+Gringeri A@Franchini M@1
+Tagliaferri A@Gringeri A@2
+Peyvandi F@Gringeri A@1

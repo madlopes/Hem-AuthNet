@@ -1,0 +1,9 @@
+auth1@auth2@papers
+van Hylckama Vlieg A@Rosendaal FR@15
+Rosendaal FR@Bertina RM@20
+van Hylckama Vlieg A@Bertina RM@2
+Rosendaal FR@Lijfering WM@17
+Lijfering WM@Cannegieter SC@15
+van Hylckama Vlieg A@Lijfering WM@6
+Rosendaal FR@Cannegieter SC@22
+van Hylckama Vlieg A@Cannegieter SC@6

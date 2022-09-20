@@ -1,0 +1,5 @@
+auth1@auth2@papers
+Pipe SW@Ginsburg D@4
+Pipe SW@Kaufman RJ@19
+Kaufman RJ@Ginsburg D@11
+Pittman DD@Kaufman RJ@16

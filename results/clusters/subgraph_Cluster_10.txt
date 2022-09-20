@@ -1,0 +1,21 @@
+auth1@auth2@papers
+Wu X@Wang H@4
+Wang X@Wang H@18
+Wu X@Wang X@9
+Wang X@Lu Y@15
+Lu Y@Dai J@9
+Wu X@Lu Y@6
+Lu Y@Ding Q@12
+Wu W@Lu Y@4
+Wu X@Dai J@4
+Ding Q@Dai J@9
+Wu W@Dai J@3
+Wang X@Dai J@9
+Wu X@Ding Q@8
+Wu X@Wu W@5
+Wu W@Ding Q@6
+Wang X@Ding Q@21
+Wu W@Wang X@8
+Wang H@Ding Q@12
+Wang H@Lu Y@7
+Wang H@Dai J@6

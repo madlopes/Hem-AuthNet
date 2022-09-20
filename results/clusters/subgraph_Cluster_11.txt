@@ -1,0 +1,19 @@
+auth1@auth2@papers
+Green PM@Giannelli F@38
+Green PM@Bentley DR@9
+Giannelli F@Bentley DR@11
+Ljung R@Giannelli F@8
+Nilsson IM@Ljung R@20
+Nilsson IM@Giannelli F@10
+Montandon AJ@Green PM@8
+Montandon AJ@Bentley DR@6
+Montandon AJ@Ljung R@5
+Nilsson IM@Montandon AJ@5
+Montandon AJ@Giannelli F@8
+Ljung R@Green PM@5
+Nilsson IM@Green PM@6
+Ljung R@Bentley DR@4
+Nilsson IM@Bentley DR@6
+Ljung R@Holmberg L@12
+Nilsson IM@Holmberg L@14
+Holmberg L@Giannelli F@1

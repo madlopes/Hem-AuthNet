@@ -1,0 +1,16 @@
+auth1@auth2@papers
+Takamatsu J@Kamiya T@13
+Kojima T@Kamiya T@8
+Saito H@Kamiya T@18
+Takamatsu J@Kojima T@7
+Takamatsu J@Saito H@16
+Saito H@Kojima T@15
+Takahashi I@Kojima T@4
+Takahashi I@Kamiya T@10
+Takahashi I@Saito H@11
+Takamatsu J@Takahashi I@6
+Tanimoto M@Kojima T@5
+Tanimoto M@Saito H@7
+Tanimoto M@Takamatsu J@6
+Tanimoto M@Kamiya T@7
+Tanimoto M@Takahashi I@1

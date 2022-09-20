@@ -1,0 +1,14 @@
+auth1@auth2@papers
+Turecek PL@Schwarz HP@24
+Turecek PL@Gritsch H@12
+Turecek PL@Scheiflinger F@13
+Schwarz HP@Gritsch H@6
+Scheiflinger F@Gritsch H@6
+Schwarz HP@Scheiflinger F@6
+Schwarz HP@Ahmad RU@13
+Schwarz HP@Reipert BM@17
+Turecek PL@Ahmad RU@7
+Reipert BM@Ahmad RU@13
+Turecek PL@Reipert BM@10
+Scheiflinger F@Reipert BM@13
+Reipert BM@Gritsch H@2

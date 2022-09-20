@@ -1,0 +1,16 @@
+auth1@auth2@papers
+Shi Q@Montgomery RR@24
+Shi Q@Fahs SA@12
+Montgomery RR@Fahs SA@13
+Weiler H@Schroeder JA@3
+Schroeder JA@Montgomery RR@8
+Shi Q@Schroeder JA@17
+Weiler H@Montgomery RR@8
+Weiler H@Shi Q@10
+Weiler H@Fahs SA@5
+Weiler H@Kuether EL@3
+Shi Q@Kuether EL@10
+Montgomery RR@Kuether EL@9
+Schroeder JA@Kuether EL@6
+Kuether EL@Fahs SA@7
+Schroeder JA@Fahs SA@4

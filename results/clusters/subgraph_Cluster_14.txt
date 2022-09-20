@@ -1,0 +1,7 @@
+auth1@auth2@papers
+Zhang L@Yang R@15
+Yang R@Xue F@13
+Zhang L@Liu W@9
+Xue F@Liu W@5
+Yang R@Liu W@5
+Zhang L@Xue F@13

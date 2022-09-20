@@ -1,0 +1,11 @@
+auth1@auth2@papers
+Liu T@Jiang H@14
+Patarroyo-White S@Liu T@9
+Sommer JM@Liu T@5
+Pierce GF@Liu T@13
+Sommer JM@Patarroyo-White S@3
+Patarroyo-White S@Jiang H@7
+Pierce GF@Patarroyo-White S@7
+Sommer JM@Jiang H@9
+Sommer JM@Pierce GF@11
+Pierce GF@Jiang H@25

@@ -1,0 +1,13 @@
+auth1@auth2@papers
+Oldenburg J@Hanfland P@12
+Oldenburg J@Brackmann HH@36
+Schwaab R@Oldenburg J@35
+Hanfland P@Brackmann HH@11
+Schwaab R@Hanfland P@11
+Schwaab R@Brackmann HH@29
+Olek K@Oldenburg J@12
+Schwaab R@Olek K@12
+Olek K@Brackmann HH@13
+Pavlova A@Oldenburg J@32
+Schwaab R@Pavlova A@2
+Pavlova A@Brackmann HH@1

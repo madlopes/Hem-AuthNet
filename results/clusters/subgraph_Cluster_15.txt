@@ -1,0 +1,16 @@
+auth1@auth2@papers
+Voorberg J@Meijer AB@11
+Voorberg J@Mertens K@17
+Mertens K@Meijer AB@20
+van den Biggelaar M@Meijer AB@15
+van den Biggelaar M@Mertens K@16
+van der Zwaan C@van den Biggelaar M@7
+van der Zwaan C@Meijer AB@10
+van der Zwaan C@Mertens K@9
+van der Zwaan C@Bloem E@4
+Mertens K@Bloem E@6
+Meijer AB@Bloem E@7
+van den Biggelaar M@Bloem E@5
+Voorberg J@Bloem E@3
+van den Biggelaar M@Voorberg J@9
+van der Zwaan C@Voorberg J@1

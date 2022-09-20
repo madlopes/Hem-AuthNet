@@ -1,0 +1,29 @@
+auth1@auth2@papers
+Laros-van Gorkom BAP@Cnossen MH@8
+Mathôt RAA@Laros-van Gorkom BAP@9
+Mathôt RAA@Cnossen MH@20
+Preijers T@Meijer K@6
+Preijers T@Leebeek FWG@11
+Preijers T@Cnossen MH@12
+Preijers T@Mathôt RAA@11
+Meijer K@Leebeek FWG@12
+Meijer K@Cnossen MH@12
+Meijer K@Mathôt RAA@9
+Leebeek FWG@Cnossen MH@19
+Mathôt RAA@Leebeek FWG@16
+Preijers T@Hazendonk HCAM@6
+Preijers T@Laros-van Gorkom BAP@5
+van der Meer FJM@Preijers T@5
+Laros-van Gorkom BAP@Hazendonk HCAM@5
+van der Meer FJM@Hazendonk HCAM@5
+Meijer K@Hazendonk HCAM@5
+Leebeek FWG@Hazendonk HCAM@7
+Mathôt RAA@Hazendonk HCAM@7
+Hazendonk HCAM@Cnossen MH@7
+van der Meer FJM@Laros-van Gorkom BAP@6
+Meijer K@Laros-van Gorkom BAP@7
+Leebeek FWG@Laros-van Gorkom BAP@7
+van der Meer FJM@Meijer K@6
+van der Meer FJM@Leebeek FWG@6
+van der Meer FJM@Mathôt RAA@6
+van der Meer FJM@Cnossen MH@6

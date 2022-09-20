@@ -1,0 +1,60 @@
+Search criteria
+
+("hemophilia B"[Title/Abstract] OR "hemophilia A"[Title/Abstract] OR "FVIII"[Title/Abstract] OR "factor VIII"[Title/Abstract] OR "factor IX"[Title/Abstract] OR "factor VIIIa"[Title/Abstract] OR "factor IXa"[Title/Abstract]) NOT ("von willebrand disease")
+
+
+1798 - 2004
+2005 - 2021
+
+18,370 results (abstracts)
+
+English and with the abstract available
+
+Search date: 01/Feb/2021
+
+
+
+
+
+
+("haemophilia B"[Title/Abstract] OR "hemophilia B"[Title/Abstract] OR "haemophilia A"[Title/Abstract] OR "hemophilia A"[Title/Abstract] OR "FVIII"[Title/Abstract] OR "factor VIII"[Title/Abstract] OR "factor IX"[Title/Abstract] OR "factor VIIIa"[Title/Abstract] OR "factor IXa"[Title/Abstract]) NOT ("von willebrand disease")
+
+1960 - 2002
+2003 - 2020
+2021
+
+in total, 19,983 abstracts obtained. Search date: 12/Feb/2021
+
+
+
+
+
+
+3rd and maybe final search
+("haemophilia B"[Title/Abstract] OR "hemophilia B"[Title/Abstract] OR "haemophilia A"[Title/Abstract] OR "hemophilia A"[Title/Abstract] OR "FVIII"[Title/Abstract] OR "factor VIII"[Title/Abstract] OR "factor IX"[Title/Abstract] OR "factor VIIIa"[Title/Abstract] OR "factor IXa"[Title/Abstract]) NOT ("von willebrand disease")
+
+1960-01-01
+2003-12-31
+
+2004-01-01
+2022-03-01 (but I am currently in 04.Feb.2022)
+
+I had to also get an overlap in the intervals 2003-01-01 to 2004-12-31 and 2021-01-01 to 2022-12-31
+There were duplicated records, so I have to remove them on the Python script. Make them unique.
+
+20,554 results returned in Pubmed, but the abstracts downloaded sum up to 20,311 unique PMIDs.
+
+
+
+========================
+
+parameters of the hypergeometric test
+
+- Selected clusters with at least 3 authors
+- Selected papers with at least 3 authors
+
+
+
+Interesting time-series post - with code and example
+
+https://towardsdatascience.com/time-series-forecasting-predicting-stock-prices-using-facebooks-prophet-model-9ee1657132b5

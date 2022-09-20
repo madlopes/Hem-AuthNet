@@ -1,0 +1,507 @@
+auth1@auth2@papers
+Wu X@Wang H@4
+Wang X@Wang H@18
+Wu X@Wang X@9
+Wang X@Lu Y@15
+Lu Y@Dai J@9
+Wu X@Lu Y@6
+Lu Y@Ding Q@12
+Wu W@Lu Y@4
+Wu X@Dai J@4
+Ding Q@Dai J@9
+Wu W@Dai J@3
+Wang X@Dai J@9
+Wu X@Ding Q@8
+Wu X@Wu W@5
+Wu W@Ding Q@6
+Wang X@Ding Q@21
+Wu W@Wang X@8
+Wang H@Ding Q@12
+Wang H@Lu Y@7
+Wang H@Dai J@6
+auth1@auth2@papers
+Green PM@Giannelli F@38
+Green PM@Bentley DR@9
+Giannelli F@Bentley DR@11
+Ljung R@Giannelli F@8
+Nilsson IM@Ljung R@20
+Nilsson IM@Giannelli F@10
+Montandon AJ@Green PM@8
+Montandon AJ@Bentley DR@6
+Montandon AJ@Ljung R@5
+Nilsson IM@Montandon AJ@5
+Montandon AJ@Giannelli F@8
+Ljung R@Green PM@5
+Nilsson IM@Green PM@6
+Ljung R@Bentley DR@4
+Nilsson IM@Bentley DR@6
+Ljung R@Holmberg L@12
+Nilsson IM@Holmberg L@14
+Holmberg L@Giannelli F@1
+auth1@auth2@papers
+Gilles JG@Arnout J@6
+auth1@auth2@papers
+Folsom AR@Cushman M@18
+Zakai NA@Cushman M@15
+Lutsey PL@Folsom AR@8
+Lutsey PL@Cushman M@8
+Zakai NA@Lutsey PL@2
+Zakai NA@Folsom AR@3
+auth1@auth2@papers
+Zhang L@Yang R@15
+Yang R@Xue F@13
+Zhang L@Liu W@9
+Xue F@Liu W@5
+Yang R@Liu W@5
+Zhang L@Xue F@13
+auth1@auth2@papers
+Voorberg J@Meijer AB@11
+Voorberg J@Mertens K@17
+Mertens K@Meijer AB@20
+van den Biggelaar M@Meijer AB@15
+van den Biggelaar M@Mertens K@16
+van der Zwaan C@van den Biggelaar M@7
+van der Zwaan C@Meijer AB@10
+van der Zwaan C@Mertens K@9
+van der Zwaan C@Bloem E@4
+Mertens K@Bloem E@6
+Meijer AB@Bloem E@7
+van den Biggelaar M@Bloem E@5
+Voorberg J@Bloem E@3
+van den Biggelaar M@Voorberg J@9
+van der Zwaan C@Voorberg J@1
+auth1@auth2@papers
+Sommer SS@Ketterling RP@26
+Ketterling RP@Bottema CD@13
+Sommer SS@Bottema CD@16
+auth1@auth2@papers
+Healey JF@Doering CB@3
+Parker ET@Doering CB@11
+Doering CB@Barrow RT@2
+Lollar P@Doering CB@14
+Parker ET@Healey JF@20
+Healey JF@Barrow RT@15
+Lollar P@Healey JF@36
+Parker ET@Barrow RT@12
+Parker ET@Lollar P@36
+Lollar P@Barrow RT@18
+Spencer HT@Doering CB@33
+Spencer HT@Parker ET@6
+Spencer HT@Lollar P@6
+Parker ET@Meeks SL@10
+Meeks SL@Healey JF@13
+Meeks SL@Lollar P@13
+Spencer HT@Meeks SL@1
+Meeks SL@Doering CB@4
+Meeks SL@Barrow RT@4
+auth1@auth2@papers
+Laros-van Gorkom BAP@Cnossen MH@8
+Mathôt RAA@Laros-van Gorkom BAP@9
+Mathôt RAA@Cnossen MH@20
+Preijers T@Meijer K@6
+Preijers T@Leebeek FWG@11
+Preijers T@Cnossen MH@12
+Preijers T@Mathôt RAA@11
+Meijer K@Leebeek FWG@12
+Meijer K@Cnossen MH@12
+Meijer K@Mathôt RAA@9
+Leebeek FWG@Cnossen MH@19
+Mathôt RAA@Leebeek FWG@16
+Preijers T@Hazendonk HCAM@6
+Preijers T@Laros-van Gorkom BAP@5
+van der Meer FJM@Preijers T@5
+Laros-van Gorkom BAP@Hazendonk HCAM@5
+van der Meer FJM@Hazendonk HCAM@5
+Meijer K@Hazendonk HCAM@5
+Leebeek FWG@Hazendonk HCAM@7
+Mathôt RAA@Hazendonk HCAM@7
+Hazendonk HCAM@Cnossen MH@7
+van der Meer FJM@Laros-van Gorkom BAP@6
+Meijer K@Laros-van Gorkom BAP@7
+Leebeek FWG@Laros-van Gorkom BAP@7
+van der Meer FJM@Meijer K@6
+van der Meer FJM@Leebeek FWG@6
+van der Meer FJM@Mathôt RAA@6
+van der Meer FJM@Cnossen MH@6
+auth1@auth2@papers
+Turecek PL@Schwarz HP@24
+Turecek PL@Gritsch H@12
+Turecek PL@Scheiflinger F@13
+Schwarz HP@Gritsch H@6
+Scheiflinger F@Gritsch H@6
+Schwarz HP@Scheiflinger F@6
+Schwarz HP@Ahmad RU@13
+Schwarz HP@Reipert BM@17
+Turecek PL@Ahmad RU@7
+Reipert BM@Ahmad RU@13
+Turecek PL@Reipert BM@10
+Scheiflinger F@Reipert BM@13
+Reipert BM@Gritsch H@2
+auth1@auth2@papers
+Oldenburg J@Hanfland P@12
+Oldenburg J@Brackmann HH@36
+Schwaab R@Oldenburg J@35
+Hanfland P@Brackmann HH@11
+Schwaab R@Hanfland P@11
+Schwaab R@Brackmann HH@29
+Olek K@Oldenburg J@12
+Schwaab R@Olek K@12
+Olek K@Brackmann HH@13
+Pavlova A@Oldenburg J@32
+Schwaab R@Pavlova A@2
+Pavlova A@Brackmann HH@1
+auth1@auth2@papers
+Takamatsu J@Kamiya T@13
+Kojima T@Kamiya T@8
+Saito H@Kamiya T@18
+Takamatsu J@Kojima T@7
+Takamatsu J@Saito H@16
+Saito H@Kojima T@15
+Takahashi I@Kojima T@4
+Takahashi I@Kamiya T@10
+Takahashi I@Saito H@11
+Takamatsu J@Takahashi I@6
+Tanimoto M@Kojima T@5
+Tanimoto M@Saito H@7
+Tanimoto M@Takamatsu J@6
+Tanimoto M@Kamiya T@7
+Tanimoto M@Takahashi I@1
+auth1@auth2@papers
+Pontara E@Casonato A@14
+Casonato A@Bertomoro A@9
+Girolami A@Casonato A@17
+Pontara E@Bertomoro A@9
+Pontara E@Girolami A@9
+Girolami A@Bertomoro A@7
+Sartori MT@Girolami A@13
+Sartori MT@Casonato A@6
+Sartori MT@Pontara E@5
+Sartori MT@Bertomoro A@4
+auth1@auth2@papers
+Pipe SW@Ginsburg D@4
+Pipe SW@Kaufman RJ@19
+Kaufman RJ@Ginsburg D@11
+Pittman DD@Kaufman RJ@16
+auth1@auth2@papers
+Shi Q@Montgomery RR@24
+Shi Q@Fahs SA@12
+Montgomery RR@Fahs SA@13
+Weiler H@Schroeder JA@3
+Schroeder JA@Montgomery RR@8
+Shi Q@Schroeder JA@17
+Weiler H@Montgomery RR@8
+Weiler H@Shi Q@10
+Weiler H@Fahs SA@5
+Weiler H@Kuether EL@3
+Shi Q@Kuether EL@10
+Montgomery RR@Kuether EL@9
+Schroeder JA@Kuether EL@6
+Kuether EL@Fahs SA@7
+Schroeder JA@Fahs SA@4
+auth1@auth2@papers
+Roberts HR@Hoffman M@17
+Monroe DM@Hoffman M@26
+Roberts HR@Monroe DM@27
+auth1@auth2@papers
+Kazazian HH Jr@Antonarakis SE@28
+Youssoufian H@Antonarakis SE@10
+Youssoufian H@Kazazian HH Jr@10
+auth1@auth2@papers
+Shima M@Sakurai Y@18
+Yoshioka A@Sakurai Y@17
+Yoshioka A@Shima M@74
+Shima M@Saenko EL@29
+Sakurai Y@Matsumoto T@7
+Sakurai Y@Nishiya K@5
+Shima M@Matsumoto T@33
+Shima M@Nishiya K@16
+Nishiya K@Matsumoto T@5
+Yoshioka A@Matsumoto T@10
+Yoshioka A@Nishiya K@12
+Shima M@Nogami K@83
+Nogami K@Nishiya K@13
+Saenko EL@Nogami K@14
+Sakurai Y@Nogami K@5
+Tanaka I@Nogami K@15
+Yoshioka A@Nogami K@25
+Tanaka I@Shima M@38
+Saenko EL@Nishiya K@8
+Tanaka I@Nishiya K@8
+Sakurai Y@Saenko EL@3
+Tanaka I@Saenko EL@10
+Yoshioka A@Saenko EL@13
+Tanaka I@Sakurai Y@11
+Yoshioka A@Tanaka I@41
+Tanaka I@Matsumoto T@9
+Nogami K@Matsumoto T@24
+Takeyama M@Ogiwara K@14
+Shima M@Ogiwara K@35
+Ogiwara K@Nogami K@32
+Takeyama M@Shima M@25
+Takeyama M@Nogami K@24
+Takeyama M@Matsumoto T@9
+Ogiwara K@Matsumoto T@14
+Ogiwara K@Nishiya K@7
+Takeyama M@Nishiya K@7
+Sakurai Y@Ogiwara K@1
+Yoshioka A@Ogiwara K@4
+Takeyama M@Saenko EL@5
+Saenko EL@Ogiwara K@3
+Yoshioka A@Takeyama M@9
+Takeyama M@Sakurai Y@3
+Tanaka I@Takeyama M@5
+auth1@auth2@papers
+Morfini M@Gringeri A@9
+Morfini M@Mannucci PM@14
+Mannucci PM@Gringeri A@32
+Santagostino E@Gringeri A@18
+Santagostino E@Mannucci PM@39
+Rocino A@Coppola A@14
+Santagostino E@Morfini M@27
+Mannucci PM@Castaman G@10
+Peyvandi F@Mannucci PM@28
+Santagostino E@Rocino A@13
+Rocino A@Morfini M@9
+Rocino A@Gringeri A@6
+Morfini M@Castaman G@14
+Santagostino E@Castaman G@14
+Morfini M@Mazzucconi MG@7
+Mazzucconi MG@Mannucci PM@8
+Tagliaferri A@Coppola A@19
+Rocino A@Castaman G@10
+Santoro C@Castaman G@9
+Zanon E@Castaman G@12
+Santoro C@Rocino A@10
+Zanon E@Rocino A@12
+Zanon E@Santoro C@11
+Di Minno G@Coppola A@13
+Rocino A@Di Minno G@9
+Mancuso ME@Di Minno G@4
+Tagliaferri A@Di Minno G@5
+Zanon E@Di Minno G@3
+Santoro C@Di Minno G@5
+Di Minno G@Castaman G@4
+Santagostino E@Di Minno G@7
+Mannucci PM@Di Minno G@4
+Mancuso ME@Coppola A@5
+Zanon E@Coppola A@12
+Santoro C@Coppola A@13
+Coppola A@Castaman G@9
+Santagostino E@Coppola A@10
+Mannucci PM@Coppola A@6
+Rocino A@Mancuso ME@8
+Tagliaferri A@Rocino A@9
+Rocino A@Mannucci PM@7
+Tagliaferri A@Mancuso ME@7
+Zanon E@Mancuso ME@5
+Santoro C@Mancuso ME@8
+Mancuso ME@Castaman G@10
+Santagostino E@Mancuso ME@40
+Mannucci PM@Mancuso ME@19
+Zanon E@Tagliaferri A@11
+Tagliaferri A@Santoro C@11
+Tagliaferri A@Castaman G@8
+Tagliaferri A@Santagostino E@14
+Tagliaferri A@Mannucci PM@9
+Zanon E@Santagostino E@7
+Zanon E@Mannucci PM@7
+Santoro C@Santagostino E@7
+Santoro C@Mannucci PM@3
+Santoro C@Mazzucconi MG@8
+Mazzucconi MG@Castaman G@7
+Mazzucconi MG@Mancuso ME@6
+Franchini M@Coppola A@19
+Santoro C@Franchini M@7
+Zanon E@Franchini M@6
+Tagliaferri A@Franchini M@18
+Peyvandi F@Castaman G@4
+Peyvandi F@Mancuso ME@11
+Santagostino E@Peyvandi F@14
+Franchini M@Castaman G@5
+Mancuso ME@Franchini M@4
+Rocino A@Franchini M@5
+Morfini M@Mancuso ME@5
+Santoro C@Morfini M@6
+Santoro C@Peyvandi F@2
+Mazzucconi MG@Coppola A@4
+Morfini M@Coppola A@7
+Peyvandi F@Coppola A@2
+Rocino A@Mazzucconi MG@5
+Rocino A@Peyvandi F@2
+Santagostino E@Franchini M@6
+Santagostino E@Mazzucconi MG@7
+Franchini M@Di Minno G@4
+Mazzucconi MG@Di Minno G@3
+Morfini M@Di Minno G@7
+Peyvandi F@Di Minno G@1
+Mazzucconi MG@Franchini M@2
+Morfini M@Franchini M@7
+Peyvandi F@Franchini M@1
+Peyvandi F@Mazzucconi MG@2
+Tagliaferri A@Mazzucconi MG@6
+Zanon E@Mazzucconi MG@6
+Peyvandi F@Morfini M@2
+Tagliaferri A@Morfini M@8
+Zanon E@Morfini M@6
+Tagliaferri A@Peyvandi F@2
+Zanon E@Peyvandi F@4
+Mannucci PM@Franchini M@21
+Mazzucconi MG@Gringeri A@2
+Gringeri A@Franchini M@1
+Tagliaferri A@Gringeri A@2
+Peyvandi F@Gringeri A@1
+auth1@auth2@papers
+van der Bom JG@Mauser-Bunschoten EP@12
+van der Bom JG@Fischer K@13
+van der Bom JG@van den Berg HM@14
+Mauser-Bunschoten EP@Fischer K@18
+van den Berg HM@Mauser-Bunschoten EP@17
+van den Berg HM@Fischer K@21
+Roosendaal G@Fischer K@9
+van der Bom JG@Roosendaal G@5
+Roosendaal G@Mauser-Bunschoten EP@16
+van den Berg HM@Roosendaal G@9
+Peters M@Fijnvandraat K@25
+van der Bom JG@Gouw SC@17
+Gouw SC@Fischer K@8
+Mauser-Bunschoten EP@Gouw SC@5
+Fischer K@Fijnvandraat K@4
+Gouw SC@Fijnvandraat K@6
+van der Bom JG@Fijnvandraat K@16
+van der Bom JG@Peters M@11
+Mauser-Bunschoten EP@Fijnvandraat K@3
+Peters M@Gouw SC@2
+Peters M@Fischer K@3
+van den Berg HM@Gouw SC@9
+Peters M@Mauser-Bunschoten EP@4
+van den Berg HM@Fijnvandraat K@1
+auth1@auth2@papers
+Herzog RW@Arruda VR@18
+Nichols TC@Arruda VR@16
+Mingozzi F@Arruda VR@10
+Couto LB@Arruda VR@9
+High KA@Arruda VR@30
+Nichols TC@Herzog RW@10
+Mingozzi F@Herzog RW@9
+Herzog RW@Couto LB@9
+High KA@Herzog RW@27
+Nichols TC@Mingozzi F@3
+Nichols TC@Couto LB@5
+Nichols TC@High KA@12
+Mingozzi F@Couto LB@3
+Mingozzi F@High KA@25
+High KA@Couto LB@12
+Merricks EP@Bellinger DA@4
+Nichols TC@Merricks EP@24
+Nichols TC@Bellinger DA@22
+Herzog RW@Bellinger DA@4
+Bellinger DA@Arruda VR@4
+Couto LB@Bellinger DA@3
+High KA@Bellinger DA@5
+Merricks EP@Arruda VR@7
+Merricks EP@Herzog RW@3
+Zhou S@Nichols TC@7
+Zhou S@Arruda VR@10
+Zhou S@High KA@18
+Zhou S@Mingozzi F@9
+Zhou S@Herzog RW@4
+Zhou S@Merricks EP@3
+Merricks EP@High KA@2
+Mingozzi F@Bellinger DA@2
+Zhou S@Bellinger DA@2
+Zhou S@Couto LB@4
+auth1@auth2@papers
+van Hylckama Vlieg A@Rosendaal FR@15
+Rosendaal FR@Bertina RM@20
+van Hylckama Vlieg A@Bertina RM@2
+Rosendaal FR@Lijfering WM@17
+Lijfering WM@Cannegieter SC@15
+van Hylckama Vlieg A@Lijfering WM@6
+Rosendaal FR@Cannegieter SC@22
+van Hylckama Vlieg A@Cannegieter SC@6
+auth1@auth2@papers
+Quehenberger P@Lechner K@4
+Quehenberger P@Pabinger I@13
+Pabinger I@Lechner K@13
+Mannhalter C@Lechner K@3
+Quehenberger P@Ay C@10
+Pabinger I@Ay C@31
+Quehenberger P@Mannhalter C@6
+Pabinger I@Mannhalter C@11
+Mannhalter C@Ay C@5
+auth1@auth2@papers
+Liu T@Jiang H@14
+Patarroyo-White S@Liu T@9
+Sommer JM@Liu T@5
+Pierce GF@Liu T@13
+Sommer JM@Patarroyo-White S@3
+Patarroyo-White S@Jiang H@7
+Pierce GF@Patarroyo-White S@7
+Sommer JM@Jiang H@9
+Sommer JM@Pierce GF@11
+Pierce GF@Jiang H@25
+auth1@auth2@papers
+Kaveri SV@Bayry J@25
+Kazatchkine MD@Bayry J@10
+Lacroix-Desmazes S@Bayry J@26
+Kazatchkine MD@Kaveri SV@17
+Lacroix-Desmazes S@Kaveri SV@58
+Lacroix-Desmazes S@Kazatchkine MD@17
+Saint-Remy JM@Lacroix-Desmazes S@9
+Saint-Remy JM@Kaveri SV@8
+Saint-Remy JM@Bayry J@5
+Saint-Remy JM@Kazatchkine MD@3
+Lacroix-Desmazes S@Delignat S@27
+Dimitrov JD@Delignat S@7
+Kaveri SV@Delignat S@24
+Delignat S@Bayry J@11
+Kaveri SV@Dimitrov JD@14
+Dimitrov JD@Bayry J@7
+Lacroix-Desmazes S@Dimitrov JD@14
+Delignat S@Dasgupta S@11
+Dasgupta S@Bayry J@12
+Kaveri SV@Dasgupta S@19
+Lacroix-Desmazes S@Dasgupta S@19
+Repessé Y@Lacroix-Desmazes S@13
+Wootla B@Kaveri SV@14
+Wootla B@Lacroix-Desmazes S@14
+Repessé Y@Delignat S@6
+Repessé Y@Dimitrov JD@6
+Repessé Y@Kaveri SV@12
+Repessé Y@Dasgupta S@7
+Dimitrov JD@Dasgupta S@5
+Dasgupta S@André S@7
+Bayry J@André S@7
+Kaveri SV@André S@9
+Lacroix-Desmazes S@André S@9
+Navarrete AM@Delignat S@8
+Repessé Y@Navarrete AM@4
+Navarrete AM@Kaveri SV@10
+Navarrete AM@Lacroix-Desmazes S@10
+Dimitrov JD@André S@2
+Delignat S@André S@5
+Wootla B@Dimitrov JD@3
+Wootla B@Repessé Y@4
+Wootla B@Bayry J@7
+Repessé Y@Bayry J@3
+Navarrete AM@Dasgupta S@9
+Navarrete AM@André S@5
+Navarrete AM@Bayry J@7
+Saint-Remy JM@Dimitrov JD@2
+Navarrete AM@Dimitrov JD@1
+Repessé Y@André S@2
+Wootla B@Dasgupta S@8
+Wootla B@Navarrete AM@5
+Saint-Remy JM@Dasgupta S@3
+Saint-Remy JM@Navarrete AM@3
+Wootla B@André S@2
+Saint-Remy JM@André S@2
+Wootla B@Delignat S@5
+Wootla B@Saint-Remy JM@3
+Saint-Remy JM@Delignat S@3
+Saint-Remy JM@Repessé Y@2
+Kazatchkine MD@Dasgupta S@3
+Navarrete AM@Kazatchkine MD@1
+Kazatchkine MD@Delignat S@2
+Wootla B@Kazatchkine MD@3
+Kazatchkine MD@André S@1

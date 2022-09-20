@@ -1,0 +1,25 @@
+auth1@auth2@papers
+van der Bom JG@Mauser-Bunschoten EP@12
+van der Bom JG@Fischer K@13
+van der Bom JG@van den Berg HM@14
+Mauser-Bunschoten EP@Fischer K@18
+van den Berg HM@Mauser-Bunschoten EP@17
+van den Berg HM@Fischer K@21
+Roosendaal G@Fischer K@9
+van der Bom JG@Roosendaal G@5
+Roosendaal G@Mauser-Bunschoten EP@16
+van den Berg HM@Roosendaal G@9
+Peters M@Fijnvandraat K@25
+van der Bom JG@Gouw SC@17
+Gouw SC@Fischer K@8
+Mauser-Bunschoten EP@Gouw SC@5
+Fischer K@Fijnvandraat K@4
+Gouw SC@Fijnvandraat K@6
+van der Bom JG@Fijnvandraat K@16
+van der Bom JG@Peters M@11
+Mauser-Bunschoten EP@Fijnvandraat K@3
+Peters M@Gouw SC@2
+Peters M@Fischer K@3
+van den Berg HM@Gouw SC@9
+Peters M@Mauser-Bunschoten EP@4
+van den Berg HM@Fijnvandraat K@1

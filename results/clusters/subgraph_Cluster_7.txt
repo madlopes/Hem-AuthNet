@@ -1,0 +1,10 @@
+auth1@auth2@papers
+Quehenberger P@Lechner K@4
+Quehenberger P@Pabinger I@13
+Pabinger I@Lechner K@13
+Mannhalter C@Lechner K@3
+Quehenberger P@Ay C@10
+Pabinger I@Ay C@31
+Quehenberger P@Mannhalter C@6
+Pabinger I@Mannhalter C@11
+Mannhalter C@Ay C@5

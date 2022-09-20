@@ -1,0 +1,20 @@
+auth1@auth2@papers
+Healey JF@Doering CB@3
+Parker ET@Doering CB@11
+Doering CB@Barrow RT@2
+Lollar P@Doering CB@14
+Parker ET@Healey JF@20
+Healey JF@Barrow RT@15
+Lollar P@Healey JF@36
+Parker ET@Barrow RT@12
+Parker ET@Lollar P@36
+Lollar P@Barrow RT@18
+Spencer HT@Doering CB@33
+Spencer HT@Parker ET@6
+Spencer HT@Lollar P@6
+Parker ET@Meeks SL@10
+Meeks SL@Healey JF@13
+Meeks SL@Lollar P@13
+Spencer HT@Meeks SL@1
+Meeks SL@Doering CB@4
+Meeks SL@Barrow RT@4

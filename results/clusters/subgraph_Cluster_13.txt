@@ -1,0 +1,7 @@
+auth1@auth2@papers
+Folsom AR@Cushman M@18
+Zakai NA@Cushman M@15
+Lutsey PL@Folsom AR@8
+Lutsey PL@Cushman M@8
+Zakai NA@Lutsey PL@2
+Zakai NA@Folsom AR@3
