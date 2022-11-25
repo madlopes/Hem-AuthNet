@@ -1,4 +1,4 @@
-# Hema-AuthNet – v1.0
+# Hem-AuthNet – v1.0
 
 ### Thanks for your interest in using Hem-AuthNet.
 
